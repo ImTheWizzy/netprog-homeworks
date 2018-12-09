@@ -3,7 +3,7 @@ regExps = {
 "exercise_2": /088[1-7]{7}/,
 "exercise_3": /[^0-1]+/,
 "exercise_4": /^[a-z][a-zA-Z0-9._]{2,13}$/,
-"exercise_5": /^[^2]+[^1]$/,
+"exercise_5": /1[0-4][0-9]{2}|^[0-9]{1,3}$|1500/,
 "exercise_6": /class=['"](.*)['"]/
 };
 cssSelectors = {
